@@ -1,7 +1,7 @@
 # 📖 Technical & Scientific Glossary
-> **Thermal Sentinel Grid — FortyGuard Hackathon '26**  
-> *Author:* Karim Y. Azab (Karim Yasser)  
-> *Repository:* [github.com/KarimmYasser/fortyguard-hackathon](https://github.com/KarimmYasser/fortyguard-hackathon)
+> **Thermal Sentinel Grid**  
+> *Author:* Karim Y. Azab (Karim Yasser) · *Built for FortyGuard AI Hackathon 2026*  
+> *Repository:* [github.com/KarimmYasser/thermal-sentinel-grid](https://github.com/KarimmYasser/thermal-sentinel-grid)
 
 This glossary provides authoritative, mathematically rigorous definitions for all scientific, physical, meteorological, power systems, AI/ML, and financial reliability terms used across the **Thermal Sentinel Grid** codebase, research specifications, and user interfaces.
 

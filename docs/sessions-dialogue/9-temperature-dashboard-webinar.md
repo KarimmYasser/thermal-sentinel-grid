@@ -94,8 +94,7 @@ This session bridges raw API endpoints with visual, analytical, and diagnostic c
 
 ## Subtitle & Document Exports
 
-- **Plain Text Source Transcript:** [`9-tempreture-dashboard-webinar.txt`](file:///Users/karim/Development/projects/fortyguard-hackathon/scratch/9-tempreture-dashboard-webinar.txt)
-- **Master Documentation Hub:** [`sessions-dialogue/README.md`](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/README.md)
+- **Master Documentation Hub:** [`sessions-dialogue/README.md`](README.md)
 
 ---
 

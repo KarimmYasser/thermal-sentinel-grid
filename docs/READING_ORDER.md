@@ -2,7 +2,7 @@
 > **Thermal Sentinel Grid**  
 > *Author:* Karim Y. Azab (Karim Yasser) · *Built for FortyGuard AI Hackathon 2026*  
 > *Live Application:* [www.thermal-sentinel-grid.live](https://www.thermal-sentinel-grid.live/)  
-> *Repository:* [github.com/KarimmYasser/fortyguard-hackathon](https://github.com/KarimmYasser/fortyguard-hackathon)
+> *Repository:* [github.com/KarimmYasser/thermal-sentinel-grid](https://github.com/KarimmYasser/thermal-sentinel-grid)
 
 ---
 

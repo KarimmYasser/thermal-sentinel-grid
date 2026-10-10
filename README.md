@@ -3,10 +3,10 @@
 > *A Personal Engineering Project by Karim Yasser · Conceived & Built for the FortyGuard AI Hackathon 2026*
 
 [![Author: Karim Yasser](https://img.shields.io/badge/Author-Karim%20Yasser-0ea5e9?style=for-the-badge&logo=github)](https://github.com/KarimmYasser)
-[![Project: Thermal Sentinel Grid](https://img.shields.io/badge/Project-Thermal%20Sentinel%20Grid-8b5cf6?style=for-the-badge)](https://github.com/KarimmYasser/fortyguard-hackathon)
+[![Project: Thermal Sentinel Grid](https://img.shields.io/badge/Project-Thermal%20Sentinel%20Grid-8b5cf6?style=for-the-badge)](https://github.com/KarimmYasser/thermal-sentinel-grid)
 [![Built For: FortyGuard AI Hackathon '26](https://img.shields.io/badge/Built%20For-FortyGuard%20AI%20Hackathon%20'26-f59e0b?style=for-the-badge&logo=sparkles)](https://www.fortyguard.com/hackathon26)
 [![Standards: IEEE & IEC](https://img.shields.io/badge/Standards-IEEE%20C57.91%20%7C%20IEC%2060076--7-blue?style=for-the-badge)](https://standards.ieee.org/)
-[![Safety: Deterministic Envelope](https://img.shields.io/badge/Safety%20Gate-Deterministic%20Envelope-success?style=for-the-badge)](https://github.com/KarimmYasser/fortyguard-hackathon)
+[![Safety: Deterministic Envelope](https://img.shields.io/badge/Safety%20Gate-Deterministic%20Envelope-success?style=for-the-badge)](https://github.com/KarimmYasser/thermal-sentinel-grid)
 [![Tests: 177 Passed](https://img.shields.io/badge/Tests-177%20Passed-10b981?style=for-the-badge)](tests)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-www.thermal--sentinel--grid.live-10b981?style=for-the-badge&logo=vercel)](https://www.thermal-sentinel-grid.live/)
@@ -180,7 +180,7 @@ The operator dashboard extends the single-asset thermal replay into a portfolio 
 ## 📁 Repository Structure
 
 ```
-thermal-sentinel-grid / fortyguard-hackathon/
+thermal-sentinel-grid/
 ├── README.md                           # Main Project Overview & Architecture
 ├── SUBMISSION.md                       # Historical Hackathon Submission Archive (FortyGuard '26)
 ├── PITCH_DECK.md                       # Executive Architecture & Product Walkthrough Guide
@@ -529,13 +529,13 @@ If you reference or build upon **Thermal Sentinel Grid** in academic research, b
   year         = {2026},
   publisher    = {GitHub},
   journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/KarimmYasser/fortyguard-hackathon}},
+  howpublished = {\url{https://github.com/KarimmYasser/thermal-sentinel-grid}},
   note         = {Personal Project built for FortyGuard AI Hackathon 2026}
 }
 ```
 
 ```text
-K. Y. Azab, "Thermal Sentinel Grid: Physics-Informed Microclimate AI for Urban Grid Resilience," Built for the FortyGuard AI Hackathon 2026. Available: https://github.com/KarimmYasser/fortyguard-hackathon
+K. Y. Azab, "Thermal Sentinel Grid: Physics-Informed Microclimate AI for Urban Grid Resilience," Built for the FortyGuard AI Hackathon 2026. Available: https://github.com/KarimmYasser/thermal-sentinel-grid
 ```
 
 ---

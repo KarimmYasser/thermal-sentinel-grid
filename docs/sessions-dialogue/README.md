@@ -14,26 +14,26 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 | # | Session Title | Key Speakers / Mentors | Duration / Date | Key Themes & Topics Covered |
 | :-: | :--- | :--- | :--- | :--- |
-| **01** | **[Onboarding & Kickoff Session](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/1-onboarding-kickoff-session.md)** | **Jay** (Founder & CEO)<br>**Nahil** (Product & Community Lead) | Aug 18, 2026<br>*Sprint Kickoff* | Hackathon rules, $6,000 + NVIDIA Jetson AI prizes, 7 tracks, US 2m data scope, live URL & 3-min video requirements, GitHub collaborator `Hackathon FG`. |
-| **02** | **[Building on the FortyGuard Temperature API®](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/2-building-fortyguard-temperature-api.md)** | **Fawad Shah** (Head of Software Engineering)<br>**Nahil** (Community Lead) | 1h 01m<br>Aug 18, 2026 | Asynchronous submit-and-poll architecture, 6 core API endpoints, Quickstart Python SDK walkthrough, bounding box & polygon queries, rate limiting & error handling. |
-| **03** | **[Heat Intelligence Cloud: What You Can Build](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/3-heat-cloud-webinar-session.md)** | **Lead Solutions Architect / AI ML Team** | 38m<br>Aug 19, 2026 | 4 data layers (Temperature, Comfort UTCI, Air Quality, Land Cover), 6 live production app demos across PropTech, InsurTech, Logistics, Worker Safety, and Utilities. |
-| **04** | **[Breaking Silos with Autodesk: Data to Design](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/4-autodesk-webinar-session.md)** | **Jordana Rosa** (Senior Technical Specialist, Autodesk)<br>**Jay** (FortyGuard) | 1h 00m<br>Aug 19, 2026 | AEC & Autodesk Forma integration, early-stage microclimate modeling, 4x hackathon winner framework, team communication, leadership, and pitching with clarity. |
-| **05** | **[Escaping the Builder's Trap: Building MLPs with Google Cloud](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/5-builders-trap-webinar-session.md)** | **Ahmed Abdelkhalek** (Head of Startups, Google Cloud)<br>**Nahil** (FortyGuard) | 45m<br>Aug 20, 2026 | Escaping the builder's trap, Google Cardboard speed lessons, critical AI evaluation vs deterministic code, 15-min pre-build checklist, Minimum Lovable Products (MLP), Google Cloud credits ($2k-$250k). |
-| **06** | **[Headlines to Impact: Mastering PR & Storytelling](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/6-headlines-to-impact-session.md)** | **Tarek** (Founder & CEO, Narrative One)<br>**Nahil** (FortyGuard) | 45m<br>Aug 20, 2026 | Strategic PR & founder storytelling, The 3 P's (Perception → Presence → Partnerships), 80/20 headline rule, Press release anatomy, Media pitch Venn diagram, 3-minute video pitch delivery. |
-| **07** | **[From Heat Data to Real Signal: Data Correlation Analysis](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/7-data-correlation-webinar-session.md)** | **Mudethir** (Lead ML Engineer)<br>**Aamir** (Cloud & Data Architect, FortyGuard) | 45m<br>Aug 21, 2026 | Space-time-variable resolution (Where, When, What), preventing spurious correlations, 2m air temperature vs LST/ERA5, "Fact vs. Finding" rule, multi-modal data coupling and cadence alignment. |
-| **08** | **[Finding Product-Market Fit: Validating Idea, Customer, and Message](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/8-product-market-fit-webinar.md)** | **Thamir** (Partner @ Cultivators, ex-BreezoMeter $\to$ Google, Google Solar API) | 45m<br>Aug 22, 2026 | Fall in love with problem over solution, COCO Discovery framework (Context, Outcomes, Constraints, Options), Early Adopters vs Ideal Customer Profile (ICP), willingness to pay, space pen vs pencil. |
-| **09** | **[Mastering the Temperature Dashboard: Microclimate Intelligence & Live Walkthrough](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/9-temperature-dashboard-webinar.md)** | **Snehil Ahuja** (Product Lead, FortyGuard)<br>**Aamir** (Cloud & Data Architect, FortyGuard) | 1h 16m<br>Aug 25, 2026 | Live Temperature Dashboard feature masterclass: 60m vs 100m grid, equal interval hotspot isolation, diurnal heat simulation, 12h AI forecast, wet-bulb / solar irradiance / AQI environmental parameters, time of measure, exceedance vs persistence, bird's-eye satellite & 2m street view segmentation, 5-pillar heat intelligence report, seasonal comparison, API key quota management (2M credits), public community voting, and the 4 official judging rubrics (Impact 40%, Technical Execution 35%, Innovation 15%, Communication 10%). |
-| **10** | **[Physical AI and the Future of Smart Cities](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/10-physical-ai-webinar-session.md)** | **Prof. Jonathan Reichental** (Founder of Human Future, ex-CIO City of Palo Alto, Advisor @ FortyGuard)<br>**Snehil Ahuja** (FortyGuard) | 1h 11m<br>Aug 25, 2026 | The 5th Industrial (Cognitive) Revolution, automating the mind, 4 pillars of Physical AI (GenAI, Sensors, Robotics, Data Infrastructure), real-world city deployments (autonomous lawnmowers, bus lane vision enforcement, Las Vegas airport mini-city journey optimization, desert solar maintenance robots, AV urban redesign), inseparability of temperature and physical AI, deterministic safety guardrails for mission-critical infrastructure, and judging insights on vision vs execution. |
-| **11** | **[Why Great Ideas Die on the Whiteboard](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/11-why-great-ideas-die-on-whiteboard-session.md)** | **Karel Wiszowaty** (Partner @ developX, ex-COO & Delivery Director @ Inspirity)<br>**Snehil Ahuja** (FortyGuard) | 51m<br>Aug 26, 2026 | Bridging product strategy & engineering execution to business value, Stakeholder Currencies matrix (executives vs POs vs developers vs judges vs VCs), Theodore Levitt's "quarter-inch hole" axiom, evolutionary architecture from MVP to enterprise, and architectural case studies (Amazon, Netflix Chaos Monkey, Twitter Fail Whale). |
-| **12** | **[Inside the VC Decision](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/12-inside-the-vc-decision-session.md)** | **Vikram** (Principal @ Kota Capital, ex-Rocketship.vc, Jump Capital, BCG)<br>**Snehil Ahuja** (FortyGuard) | 39m<br>Aug 26, 2026 | What VCs & judges discuss behind closed doors, Painkiller vs Vitamin test, market creation vs market size tailwinds, why execution is never a defensibility moat (proprietary data, compounding AI flywheels), founder-market fit, and diligence across stages (Pre-seed/Seed/Series A), sectors, and geographies. |
-| **13** | **[Informing the Data: What Temperature Means for Human Experience](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/13-informing-the-data-human-experience-session.md)** | **Mike Stelfox** (Founder @ Stelfox Design Studio, Virginia Sea Grant Fellow)<br>**Snehil Ahuja** (FortyGuard) | 35m<br>Aug 27, 2026 | 5-layer cooling priority model (conditions, causes, exposure, vulnerability, opportunity), Empty Parking Lot vs School Bus Stop paradox, convective 2m air temp vs Mean Radiant Temperature (MRT) and perceived strain (UTCI/WBGT), historic 1861 hydrology and nocturnal cold-air drainage, and actionable urban design interventions. |
-| **14** | **[AI for Science: Supercharging Applications with CUDA-X](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/14-ai4science-cuda-x-session.md)** | **Constantine** (Solutions Architect & AI for Science Lead @ NVIDIA, Judge)<br>**Snehil Ahuja** (FortyGuard) | 58m<br>Aug 28, 2026 | NVIDIA software-first stack, CUDA-X drop-in acceleration (cuDF, cuOpt, cuML, NIMs), AI for Science & digital twins (NVIDIA Earth-2, FourCastNet, CorrDiff), 4 waves of AI (Perception $\to$ Generative $\to$ Agentic $\to$ Physical), and winning judge criteria (explaining deep technical complexity in intuitive terms, solving real-world infrastructure crises, and proven methodology). |
+| **01** | **[Onboarding & Kickoff Session](1-onboarding-kickoff-session.md)** | **Jay** (Founder & CEO)<br>**Nahil** (Product & Community Lead) | Aug 18, 2026<br>*Sprint Kickoff* | Hackathon rules, $6,000 + NVIDIA Jetson AI prizes, 7 tracks, US 2m data scope, live URL & 3-min video requirements, GitHub collaborator `Hackathon FG`. |
+| **02** | **[Building on the FortyGuard Temperature API®](2-building-fortyguard-temperature-api.md)** | **Fawad Shah** (Head of Software Engineering)<br>**Nahil** (Community Lead) | 1h 01m<br>Aug 18, 2026 | Asynchronous submit-and-poll architecture, 6 core API endpoints, Quickstart Python SDK walkthrough, bounding box & polygon queries, rate limiting & error handling. |
+| **03** | **[Heat Intelligence Cloud: What You Can Build](3-heat-cloud-webinar-session.md)** | **Lead Solutions Architect / AI ML Team** | 38m<br>Aug 19, 2026 | 4 data layers (Temperature, Comfort UTCI, Air Quality, Land Cover), 6 live production app demos across PropTech, InsurTech, Logistics, Worker Safety, and Utilities. |
+| **04** | **[Breaking Silos with Autodesk: Data to Design](4-autodesk-webinar-session.md)** | **Jordana Rosa** (Senior Technical Specialist, Autodesk)<br>**Jay** (FortyGuard) | 1h 00m<br>Aug 19, 2026 | AEC & Autodesk Forma integration, early-stage microclimate modeling, 4x hackathon winner framework, team communication, leadership, and pitching with clarity. |
+| **05** | **[Escaping the Builder's Trap: Building MLPs with Google Cloud](5-builders-trap-webinar-session.md)** | **Ahmed Abdelkhalek** (Head of Startups, Google Cloud)<br>**Nahil** (FortyGuard) | 45m<br>Aug 20, 2026 | Escaping the builder's trap, Google Cardboard speed lessons, critical AI evaluation vs deterministic code, 15-min pre-build checklist, Minimum Lovable Products (MLP), Google Cloud credits ($2k-$250k). |
+| **06** | **[Headlines to Impact: Mastering PR & Storytelling](6-headlines-to-impact-session.md)** | **Tarek** (Founder & CEO, Narrative One)<br>**Nahil** (FortyGuard) | 45m<br>Aug 20, 2026 | Strategic PR & founder storytelling, The 3 P's (Perception → Presence → Partnerships), 80/20 headline rule, Press release anatomy, Media pitch Venn diagram, 3-minute video pitch delivery. |
+| **07** | **[From Heat Data to Real Signal: Data Correlation Analysis](7-data-correlation-webinar-session.md)** | **Mudethir** (Lead ML Engineer)<br>**Aamir** (Cloud & Data Architect, FortyGuard) | 45m<br>Aug 21, 2026 | Space-time-variable resolution (Where, When, What), preventing spurious correlations, 2m air temperature vs LST/ERA5, "Fact vs. Finding" rule, multi-modal data coupling and cadence alignment. |
+| **08** | **[Finding Product-Market Fit: Validating Idea, Customer, and Message](8-product-market-fit-webinar.md)** | **Thamir** (Partner @ Cultivators, ex-BreezoMeter $\to$ Google, Google Solar API) | 45m<br>Aug 22, 2026 | Fall in love with problem over solution, COCO Discovery framework (Context, Outcomes, Constraints, Options), Early Adopters vs Ideal Customer Profile (ICP), willingness to pay, space pen vs pencil. |
+| **09** | **[Mastering the Temperature Dashboard: Microclimate Intelligence & Live Walkthrough](9-temperature-dashboard-webinar.md)** | **Snehil Ahuja** (Product Lead, FortyGuard)<br>**Aamir** (Cloud & Data Architect, FortyGuard) | 1h 16m<br>Aug 25, 2026 | Live Temperature Dashboard feature masterclass: 60m vs 100m grid, equal interval hotspot isolation, diurnal heat simulation, 12h AI forecast, wet-bulb / solar irradiance / AQI environmental parameters, time of measure, exceedance vs persistence, bird's-eye satellite & 2m street view segmentation, 5-pillar heat intelligence report, seasonal comparison, API key quota management (2M credits), public community voting, and the 4 official judging rubrics (Impact 40%, Technical Execution 35%, Innovation 15%, Communication 10%). |
+| **10** | **[Physical AI and the Future of Smart Cities](10-physical-ai-webinar-session.md)** | **Prof. Jonathan Reichental** (Founder of Human Future, ex-CIO City of Palo Alto, Advisor @ FortyGuard)<br>**Snehil Ahuja** (FortyGuard) | 1h 11m<br>Aug 25, 2026 | The 5th Industrial (Cognitive) Revolution, automating the mind, 4 pillars of Physical AI (GenAI, Sensors, Robotics, Data Infrastructure), real-world city deployments (autonomous lawnmowers, bus lane vision enforcement, Las Vegas airport mini-city journey optimization, desert solar maintenance robots, AV urban redesign), inseparability of temperature and physical AI, deterministic safety guardrails for mission-critical infrastructure, and judging insights on vision vs execution. |
+| **11** | **[Why Great Ideas Die on the Whiteboard](11-why-great-ideas-die-on-whiteboard-session.md)** | **Karel Wiszowaty** (Partner @ developX, ex-COO & Delivery Director @ Inspirity)<br>**Snehil Ahuja** (FortyGuard) | 51m<br>Aug 26, 2026 | Bridging product strategy & engineering execution to business value, Stakeholder Currencies matrix (executives vs POs vs developers vs judges vs VCs), Theodore Levitt's "quarter-inch hole" axiom, evolutionary architecture from MVP to enterprise, and architectural case studies (Amazon, Netflix Chaos Monkey, Twitter Fail Whale). |
+| **12** | **[Inside the VC Decision](12-inside-the-vc-decision-session.md)** | **Vikram** (Principal @ Kota Capital, ex-Rocketship.vc, Jump Capital, BCG)<br>**Snehil Ahuja** (FortyGuard) | 39m<br>Aug 26, 2026 | What VCs & judges discuss behind closed doors, Painkiller vs Vitamin test, market creation vs market size tailwinds, why execution is never a defensibility moat (proprietary data, compounding AI flywheels), founder-market fit, and diligence across stages (Pre-seed/Seed/Series A), sectors, and geographies. |
+| **13** | **[Informing the Data: What Temperature Means for Human Experience](13-informing-the-data-human-experience-session.md)** | **Mike Stelfox** (Founder @ Stelfox Design Studio, Virginia Sea Grant Fellow)<br>**Snehil Ahuja** (FortyGuard) | 35m<br>Aug 27, 2026 | 5-layer cooling priority model (conditions, causes, exposure, vulnerability, opportunity), Empty Parking Lot vs School Bus Stop paradox, convective 2m air temp vs Mean Radiant Temperature (MRT) and perceived strain (UTCI/WBGT), historic 1861 hydrology and nocturnal cold-air drainage, and actionable urban design interventions. |
+| **14** | **[AI for Science: Supercharging Applications with CUDA-X](14-ai4science-cuda-x-session.md)** | **Constantine** (Solutions Architect & AI for Science Lead @ NVIDIA, Judge)<br>**Snehil Ahuja** (FortyGuard) | 58m<br>Aug 28, 2026 | NVIDIA software-first stack, CUDA-X drop-in acceleration (cuDF, cuOpt, cuML, NIMs), AI for Science & digital twins (NVIDIA Earth-2, FourCastNet, CorrDiff), 4 waves of AI (Perception $\to$ Generative $\to$ Agentic $\to$ Physical), and winning judge criteria (explaining deep technical complexity in intuitive terms, solving real-world infrastructure crises, and proven methodology). |
 
 ---
 
 ## 🔍 Detailed Session Summaries
 
-### 1. [Onboarding & Kickoff Session](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/1-onboarding-kickoff-session.md)
+### 1. [Onboarding & Kickoff Session](1-onboarding-kickoff-session.md)
 * **Objective:** Official launch of the FortyGuard Hackathon'26 (*Building the World's Temperature AI*).
 * **Key Guidelines:**
   * Hard submission deadline: **August 30, 2026, at 11:59 PM GST**.
@@ -43,7 +43,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 2. [Building on the FortyGuard Temperature API®](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/2-building-fortyguard-temperature-api.md)
+### 2. [Building on the FortyGuard Temperature API®](2-building-fortyguard-temperature-api.md)
 * **Objective:** Deep technical walkthrough by FortyGuard's Head of Software Engineering, Fawad Shah.
 * **Key Architecture Points:**
   * **Asynchronous Polling:** Heavy geospatial polygon computations execute asynchronously; clients initiate jobs and poll every 3-5 seconds until the status is `completed`.
@@ -53,7 +53,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 3. [Heat Intelligence Cloud: What You Can Build](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/3-heat-cloud-webinar-session.md)
+### 3. [Heat Intelligence Cloud: What You Can Build](3-heat-cloud-webinar-session.md)
 * **Objective:** Architectural exploration of the FortyGuard Heat Intelligence Cloud and live application demos across 6 key industries.
 * **Core Layers:**
   1. *Surface Temperature* (2m ambient convective & radiative microclimate).
@@ -64,7 +64,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 4. [Breaking Silos with Autodesk: Data to Design](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/4-autodesk-webinar-session.md)
+### 4. [Breaking Silos with Autodesk: Data to Design](4-autodesk-webinar-session.md)
 * **Objective:** Bridge the gap between raw microclimate geospatial data and Architectural / Engineering / Construction (AEC) design workflows.
 * **Speakers:** Jordana Rosa (Autodesk Forma specialist & 4x Hackathon Winner) & Jay (FortyGuard CEO).
 * **Core Takeaways:**
@@ -73,7 +73,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 5. [Escaping the Builder's Trap: Building Minimum Lovable Products (MLP) with Google Cloud](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/5-builders-trap-webinar-session.md)
+### 5. [Escaping the Builder's Trap: Building Minimum Lovable Products (MLP) with Google Cloud](5-builders-trap-webinar-session.md)
 * **Objective:** Frameworks on lean product validation, avoiding AI over-engineering, and scaling via the Google Cloud for Startups program.
 * **Speakers:** Ahmed Abdelkhalek (Head of Startups, Google Cloud & Hackathon Judge) & Nahil (FortyGuard).
 * **Core Takeaways:**
@@ -84,7 +84,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 6. [Headlines to Impact: Mastering PR, Media Strategy, and Storytelling for Tech Founders](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/6-headlines-to-impact-session.md)
+### 6. [Headlines to Impact: Mastering PR, Media Strategy, and Storytelling for Tech Founders](6-headlines-to-impact-session.md)
 * **Objective:** Strategic communications, founder storytelling, and media narrative positioning for early-stage startups and hackathon pitches.
 * **Speakers:** Tarek (Founder & CEO of Narrative One, former CCO at Shorooq Partners, Hub71 founding team) & Nahil (FortyGuard).
 * **Core Takeaways:**
@@ -95,7 +95,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 7. [From Heat Data to Real Signal: Data Correlation Analysis](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/7-data-correlation-webinar-session.md)
+### 7. [From Heat Data to Real Signal: Data Correlation Analysis](7-data-correlation-webinar-session.md)
 * **Objective:** Rigorous spatial and temporal data coupling methodology directly from FortyGuard's Machine Learning and Cloud Architecture leads.
 * **Speakers:** Mudethir (Machine Learning Lead) & Aamir (Cloud & Data Architect, FortyGuard).
 * **Core Takeaways:**
@@ -105,7 +105,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 8. [Finding Product-Market Fit: Validating Your Idea, Customer, and Message](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/8-product-market-fit-webinar.md)
+### 8. [Finding Product-Market Fit: Validating Your Idea, Customer, and Message](8-product-market-fit-webinar.md)
 * **Objective:** Commercial validation, customer discovery, and enterprise positioning for climate & environmental intelligence startups.
 * **Speaker:** Thamir (Partner @ Cultivators; early operator at BreezoMeter through Google acquisition; Google Solar API validation lead).
 * **Core Takeaways:**
@@ -116,7 +116,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 9. [Mastering the Temperature Dashboard: Microclimate Intelligence & Live Walkthrough](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/9-temperature-dashboard-webinar.md)
+### 9. [Mastering the Temperature Dashboard: Microclimate Intelligence & Live Walkthrough](9-temperature-dashboard-webinar.md)
 * **Objective:** Full platform demonstration of the FortyGuard Temperature Dashboard and comprehensive hackathon submission, judging, and community voting briefing.
 * **Speakers:** Snehil Ahuja (Product Lead at FortyGuard) & Aamir (Software Engineer, Cloud & Data Architect at FortyGuard).
 * **Core Takeaways:**
@@ -132,7 +132,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 10. [Physical AI and the Future of Smart Cities](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/10-physical-ai-webinar-session.md)
+### 10. [Physical AI and the Future of Smart Cities](10-physical-ai-webinar-session.md)
 * **Objective:** Keynote on the Cognitive Industrial Revolution, Physical AI architecture, and transforming smart cities into autonomous cognitive cities.
 * **Speakers:** Professor Jonathan Reichental (Founder of Human Future, former CIO City of Palo Alto, Advisor @ FortyGuard, Mentor + Judge) & Snehil Ahuja (Product Lead, FortyGuard).
 * **Core Takeaways:**
@@ -145,7 +145,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 11. [Why Great Ideas Die on the Whiteboard](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/11-why-great-ideas-die-on-whiteboard-session.md)
+### 11. [Why Great Ideas Die on the Whiteboard](11-why-great-ideas-die-on-whiteboard-session.md)
 * **Objective:** Framework for pitching technical architectures, bridging engineering decisions to business outcomes, and mastering multi-stakeholder communication.
 * **Speakers:** Karel Wiszowaty (Partner @ developX, ex-COO & Delivery Director @ Inspirity) & Snehil Ahuja (FortyGuard).
 * **Core Takeaways:**
@@ -157,7 +157,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 12. [Inside the VC Decision](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/12-inside-the-vc-decision-session.md)
+### 12. [Inside the VC Decision](12-inside-the-vc-decision-session.md)
 * **Objective:** Inside look at how venture capitalists and hackathon judges evaluate early-stage startups, commercial moats, and technical defensibility behind closed doors.
 * **Speakers:** Vikram (Principal @ Kota Capital, ex-Rocketship.vc, Jump Capital, BCG, Hackathon Judge) & Snehil Ahuja (FortyGuard).
 * **Core Takeaways:**
@@ -169,7 +169,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 13. [Informing the Data: What Temperature Means for the Human Experience](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/13-informing-the-data-human-experience-session.md)
+### 13. [Informing the Data: What Temperature Means for the Human Experience](13-informing-the-data-human-experience-session.md)
 * **Objective:** Translating raw geospatial microclimate data into human-centric urban design decisions, thermal comfort modeling, and targeted cooling interventions.
 * **Speakers:** Mike Stelfox (Landscape Architect, Founder @ Stelfox Design Studio, Virginia Sea Grant Fellow) & Snehil Ahuja (FortyGuard).
 * **Core Takeaways:**
@@ -181,7 +181,7 @@ This directory contains full verbatim transcripts, structured summaries, and act
 
 ---
 
-### 14. [AI for Science: Supercharging Applications with CUDA-X](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/14-ai4science-cuda-x-session.md)
+### 14. [AI for Science: Supercharging Applications with CUDA-X](14-ai4science-cuda-x-session.md)
 * **Objective:** Inside NVIDIA's accelerated computing architecture, CUDA-X domain libraries, digital twins for climate science (Earth-2), and judging criteria for hackathon builders.
 * **Speakers:** Constantine (Senior Solutions Architect & AI for Science Lead @ NVIDIA, Hackathon Judge) & Snehil Ahuja (FortyGuard).
 * **Core Takeaways:**

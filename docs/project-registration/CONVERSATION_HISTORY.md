@@ -72,7 +72,7 @@ My motivation stems from wanting to turn cutting-edge thermal AI into a life-sav
 ---
 
 ## Part 4: Repository Setup & Workspace Fork
-- Project directory initialized at: `/Users/karim/Development/projects/fortyguard-hackathon`
+- Project directory initialized at: `/Users/karim/Development/projects/thermal-sentinel-grid` (formerly `fortyguard-hackathon`)
 - Repository structure established:
  - `README.md` (Project overview, architecture diagram, dual-market model, author info).
  - `AGENT_CONTEXT.md` (Master Knowledge Reservoir for all future assistant sessions).

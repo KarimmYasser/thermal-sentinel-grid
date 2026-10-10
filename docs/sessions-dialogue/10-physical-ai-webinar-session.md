@@ -91,8 +91,7 @@ Professor Reichental contextualizes current hackathon developments within the **
 
 ## Subtitle & Document Exports
 
-- **Plain Text Source Transcript:** [`10-physical-ai-webinar-session.txt`](file:///Users/karim/Development/projects/fortyguard-hackathon/scratch/10-physical-ai-webinar-session.txt)
-- **Master Documentation Hub:** [`sessions-dialogue/README.md`](file:///Users/karim/Development/projects/fortyguard-hackathon/docs/sessions-dialogue/README.md)
+- **Master Documentation Hub:** [`sessions-dialogue/README.md`](README.md)
 - **Speaker Profile & Resources:** [Reichental.com](https://www.reichental.com)
 
 ---

@@ -3,7 +3,7 @@
 > **Project:** Thermal Sentinel Grid (Physical-AI Microclimate Digital Twin)  
 > **Author:** Karim Y. Azab (Karim Yasser)  
 > **Origin & Provenance:** Built for the FortyGuard AI Hackathon 2026 (*Building the World's Temperature AI*, Aug 18–30, 2026)  
-> **Repository:** [KarimmYasser/fortyguard-hackathon](https://github.com/KarimmYasser/fortyguard-hackathon)
+> **Repository:** [KarimmYasser/thermal-sentinel-grid](https://github.com/KarimmYasser/thermal-sentinel-grid)
 
 ---
 

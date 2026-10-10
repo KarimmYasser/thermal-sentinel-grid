@@ -1,6 +1,6 @@
 # Database Query Performance and Replay Persistence
 
-> **Scope:** Application-side findings from the Supabase Query Performance report and the remediation shipped in commit [`171ff5e`](https://github.com/KarimmYasser/fortyguard-hackathon/commit/171ff5e).  
+> **Scope:** Application-side findings from the Supabase Query Performance report and the remediation shipped in commit [`171ff5e`](https://github.com/KarimmYasser/thermal-sentinel-grid/commit/171ff5e).  
 > **Production data store:** Supabase PostgreSQL through PostgREST.  
 > **Local fallback:** SQLite; it is not durable on Vercel.
 
