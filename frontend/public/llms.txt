@@ -4,7 +4,7 @@
 > propagates it through an IEEE C57.91-based transformer thermal model, and
 > checks dispatch recommendations with a CBF-inspired deterministic safety filter.
 
-Built for the FortyGuard Hackathon '26. Live at https://www.thermal-sentinel-grid.live
+A physics-informed Physical-AI digital twin & autonomous agentic dispatch engine for grid infrastructure, created by Karim Yasser and originally built for the FortyGuard AI Hackathon 2026. Live at https://www.thermal-sentinel-grid.live
 
 ## What it does
 

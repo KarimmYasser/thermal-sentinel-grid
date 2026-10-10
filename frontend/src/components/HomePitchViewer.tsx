@@ -70,7 +70,7 @@ export const HomePitchViewer: React.FC<HomePitchViewerProps> = ({
       subtitledUrl: '/videos/final_submission_fortyguard_burned_subtitles.mp4',
       youtubeUrl: 'https://youtu.be/xfdOuxOmEgw',
       title: '⚡ 4-Min Business Value & Customer Discovery Demo',
-      badge: 'Judges Choice · Subtitled',
+      badge: 'Featured Walkthrough · Subtitled',
       description: 'Unhurried 1080p full interaction focused on commercial ROI, COCO customer discovery, OSHA worker safety shifts, and deterministic safety gates.',
     },
     pitch: {
@@ -340,7 +340,7 @@ export const HomePitchViewer: React.FC<HomePitchViewerProps> = ({
               <iframe
                 className="w-full h-full border-0"
                 src="https://www.youtube-nocookie.com/embed/xfdOuxOmEgw?autoplay=0&rel=0&modestbranding=1"
-                title="Thermal Sentinel Grid - FortyGuard Hackathon Submission Pitch"
+                title="Thermal Sentinel Grid - Architecture & Project Walkthrough"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
               />
@@ -779,7 +779,7 @@ export const HomePitchViewer: React.FC<HomePitchViewerProps> = ({
           <div className="flex items-center gap-2">
             <Award className="h-5 w-5 text-amber-400" />
             <h3 className="text-sm font-bold text-white uppercase tracking-wider font-mono">
-              Judge Evaluation & Technical Disclosure Checklist
+              Engineering Verification & Technical Standards Checklist
             </h3>
           </div>
           <div className="flex items-center gap-2 text-xs font-mono text-emerald-400">

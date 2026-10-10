@@ -3,7 +3,7 @@ workflow: product-launch-video
 flow: automation
 storyboard: yes
 message: "Thermal Sentinel Grid: Physics-Constrained Agentic Thermal Resilience Engine for Grid Assets & Transformers"
-destination: hackathon-submission
+destination: showcase-presentation
 aspect: 1920x1080
 language: en
 length: 180s
@@ -13,7 +13,7 @@ style_preset: cyber-slate
 
 ## Intent
 
-Official 3-Minute Video Pitch & Product Demo for FortyGuard Hackathon '26 (Track 06 Agentic AI & Track 02 Future Buildings & Energy). Demonstrates why standard weather forecasts miss localized 2m asphalt thermal traps (+1.1°C land-cover delta sustained over 12h), how IEEE C57.91 physics ODEs solve the thermal cascades without black-box ML hallucinations, how LangGraph coordinates 12-hour proactive dispatch planning, and how a deterministic non-LLM safety filter checks proposed actions against modelled grid-voltage and temperature limits.
+Official 3-Minute Video Pitch & Product Demo for Thermal Sentinel Grid · Built for FortyGuard Hackathon '26 (Track 03 Industrial & Enterprise, Track 06 Agentic AI & Track 02 Energy). Demonstrates why standard weather forecasts miss localized 2m asphalt thermal traps (+1.1°C land-cover delta sustained over 12h), how IEEE C57.91 physics ODEs solve the thermal cascades without black-box ML hallucinations, how LangGraph coordinates 12-hour proactive dispatch planning, and how a deterministic non-LLM safety filter checks proposed actions against modelled grid-voltage and temperature limits.
 
 ## Assets
 

@@ -1,6 +1,6 @@
 # 📚 Master Reading Order & Documentation Roadmap
-> **Thermal Sentinel Grid — FortyGuard Hackathon '26**  
-> *Author:* Karim Y. Azab (Karim Yasser)  
+> **Thermal Sentinel Grid**  
+> *Author:* Karim Y. Azab (Karim Yasser) · *Built for FortyGuard AI Hackathon 2026*  
 > *Live Application:* [www.thermal-sentinel-grid.live](https://www.thermal-sentinel-grid.live/)  
 > *Repository:* [github.com/KarimmYasser/fortyguard-hackathon](https://github.com/KarimmYasser/fortyguard-hackathon)
 
@@ -16,7 +16,7 @@ To save your time and eliminate reading duplicate content, this roadmap organize
 ┌──────────────────────────────────────────────────────────────────────────────────────────────────────────┐
 │                                       3-TIER READING PATHWAY                                             │
 │                                                                                                          │
-│   [Tier 1: Executive Foundation]     ──► ~25 min (Vision, SCADA Safety, AI Philosophy & Judging Rubrics)│
+│   [Tier 1: Executive Foundation]     ──► ~25 min (Vision, SCADA Safety, AI Philosophy & Architecture)   │
 │   [Tier 2: Engineering & Science]    ──► ~45 min (Validation Contract, Fleet Triage, IEEE ODEs, Medallion)│
 │   [Tier 3: Reference & Deep Dives]   ──► As Needed (307-line Glossary, Keynote Playbook, Math Papers)   │
 └──────────────────────────────────────────────────────────────────────────────────────────────────────────┘
@@ -28,14 +28,14 @@ To save your time and eliminate reading duplicate content, this roadmap organize
 
 | Tier | Target Audience / Goal | Estimated Time | Key Documents Included |
 | :--- | :--- | :---: | :--- |
-| **Tier 1: Executive Foundation & Strategy** | Judges, evaluators, and engineers wanting the core concept with zero fluff. | **~25 min** | `README.md`, `SCADA_LLM_AND_LANGGRAPH_EXPLAINER.md`, `VALUE_PROPOSITION_AND_AI_PHILOSOPHY.md`, `AGENT_CONTEXT.md`, `HACKATHON_FAQ.md`. |
-| **Tier 2: Engineering, Validation & Data Science** | Technical judges and developers auditing math, API calls, ground truth, and ML. | **~45 min** | `GROUND_TRUTH_VALIDATION_CONTRACT.md`, `PORTFOLIO_OPERATIONS_AND_MCP.md`, `14-field-notes-live-integration.md`, `ASYMMETRIC_INNOVATION_AND_PHYSICAL_MECHANISMS.md`, `THERMAL_SENTINEL_GRID_SPECIFICATION.md`, `DATA_SCIENCE_AND_ML_SPECIFICATION.md`, `DATABASE_QUERY_PERFORMANCE.md`, `API_INTEGRATION_AND_REPLAY_ARCHITECTURE.md`. |
+| **Tier 1: Executive Foundation & Strategy** | Evaluators, architects, and engineers wanting the core concept with zero fluff. | **~25 min** | `README.md`, `SCADA_LLM_AND_LANGGRAPH_EXPLAINER.md`, `VALUE_PROPOSITION_AND_AI_PHILOSOPHY.md`, `AGENT_CONTEXT.md`, `HACKATHON_FAQ.md`. |
+| **Tier 2: Engineering, Validation & Data Science** | Technical reviewers and developers auditing math, API calls, ground truth, and ML. | **~45 min** | `GROUND_TRUTH_VALIDATION_CONTRACT.md`, `PORTFOLIO_OPERATIONS_AND_MCP.md`, `14-field-notes-live-integration.md`, `ASYMMETRIC_INNOVATION_AND_PHYSICAL_MECHANISMS.md`, `THERMAL_SENTINEL_GRID_SPECIFICATION.md`, `DATA_SCIENCE_AND_ML_SPECIFICATION.md`, `DATABASE_QUERY_PERFORMANCE.md`, `API_INTEGRATION_AND_REPLAY_ARCHITECTURE.md`. |
 | **Tier 3: Advanced Deep Dives & Pitch Assets** | Comprehensive reference for Q&A defense, standards compliance, and citations. | *Reference / As Needed* | `GLOSSARY.md`, `MENTOR_INSIGHTS_AND_IDEA_FRAMEWORK.md`, `sessions-dialogue/README.md`, `PITCH_DECK.md`, `SUBMISSION.md`, `SECURITY_AND_JUDGE_ACCESS.md`, `ADVANCED_PHYSICS_AND_MATHEMATICAL_PAPERS.md`, `IEEE_ANNEX_G_AND_AC_POWER_FLOW_SPECIFICATION.md`, `FORTYGUARD_API_MASTER_REFERENCE.md`. |
 
 ---
 
 ## 🚀 Tier 1: Executive Foundation & Strategy (~25 min)
-*Start here to grasp 90% of the project's vision, architecture, commercial positioning, and hackathon requirements.*
+*Start here to grasp 90% of the project's vision, architecture, commercial positioning, and core capabilities.*
 
 1. **[README.md](../README.md)** *(~5 min)*
    * **Why read it:** The master blueprint. Explains the 3 pillars, the 2-meter boundary layer problem, the 8 scientific moats, Portfolio Operations, external ground-truth validation, and the live production deployment at [www.thermal-sentinel-grid.live](https://www.thermal-sentinel-grid.live/).

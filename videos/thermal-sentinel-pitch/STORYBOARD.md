@@ -3,7 +3,7 @@ format: 1920x1080
 duration: 180s
 message: "Thermal Sentinel Grid: Physics-Constrained Agentic Thermal Resilience for Power Infrastructure"
 arc: Hook → Solution & Moats → Hybrid Architecture → Live Demo & What-If → Auditable ROI → Outro
-audience: Hackathon Judges, Grid Reliability Engineers, Facility Directors
+audience: Grid Reliability Engineers, Infrastructure Operators, Technical Evaluators
 mode: autonomous
 ---
 

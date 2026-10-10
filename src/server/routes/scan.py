@@ -71,7 +71,7 @@ async def get_api_usage() -> Dict[str, Any]:
                     "cycle_usage_percentage": 0.0,
                 },
                 "plan_details": {
-                    "plan_type": "Hackathon Demo",
+                    "plan_type": "Developer Showcase",
                     "active": True,
                 },
             }
@@ -93,7 +93,7 @@ async def get_api_usage() -> Dict[str, Any]:
                 "cycle_usage_percentage": 0.0,
             },
             "plan_details": {
-                "plan_type": "Hackathon",
+                "plan_type": "Developer Showcase",
                 "active": True,
             },
         }

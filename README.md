@@ -1,12 +1,13 @@
-# ⚡ Thermal Sentinel Grid - FortyGuard Hackathon '26
-> **Physical-AI Digital Twin & Autonomous Agentic Dispatch Engine for Grid Infrastructure & Distribution Transformers**  
-> *Building the World's Temperature AI · Global AI Hackathon (August 18-30, 2026)*
+# ⚡ Thermal Sentinel Grid
+> **Physical-AI Digital Twin & Autonomous Agentic Dispatch Engine for Substation Transformers & Urban Grid Resilience**  
+> *A Personal Engineering Project by Karim Yasser · Conceived & Built for the FortyGuard AI Hackathon 2026*
 
-[![Track: Industrial & Enterprise](https://img.shields.io/badge/Primary%20Track%2003-Industrial%20%26%20Enterprise-0ea5e9?style=for-the-badge)](https://www.fortyguard.com/hackathon26)
-[![Track: Agentic AI](https://img.shields.io/badge/Track%2006-Agentic%20AI-8b5cf6?style=for-the-badge)](https://www.fortyguard.com/hackathon26)
-[![Track: Future Buildings & Energy](https://img.shields.io/badge/Track%2002-Energy%20Systems-e8762d?style=for-the-badge)](https://www.fortyguard.com/hackathon26)
+[![Author: Karim Yasser](https://img.shields.io/badge/Author-Karim%20Yasser-0ea5e9?style=for-the-badge&logo=github)](https://github.com/KarimmYasser)
+[![Project: Thermal Sentinel Grid](https://img.shields.io/badge/Project-Thermal%20Sentinel%20Grid-8b5cf6?style=for-the-badge)](https://github.com/KarimmYasser/fortyguard-hackathon)
+[![Built For: FortyGuard AI Hackathon '26](https://img.shields.io/badge/Built%20For-FortyGuard%20AI%20Hackathon%20'26-f59e0b?style=for-the-badge&logo=sparkles)](https://www.fortyguard.com/hackathon26)
 [![Standards: IEEE & IEC](https://img.shields.io/badge/Standards-IEEE%20C57.91%20%7C%20IEC%2060076--7-blue?style=for-the-badge)](https://standards.ieee.org/)
 [![Safety: Deterministic Envelope](https://img.shields.io/badge/Safety%20Gate-Deterministic%20Envelope-success?style=for-the-badge)](https://github.com/KarimmYasser/fortyguard-hackathon)
+[![Tests: 177 Passed](https://img.shields.io/badge/Tests-177%20Passed-10b981?style=for-the-badge)](tests)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-www.thermal--sentinel--grid.live-10b981?style=for-the-badge&logo=vercel)](https://www.thermal-sentinel-grid.live/)
 [![Demo Video](https://img.shields.io/badge/Demo%20Video-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/xfdOuxOmEgw)
@@ -41,13 +42,13 @@ This microclimate heat trap creates massive **cumulative thermal soak**, pushing
 ┌───────────────────────────┬──────────────────────────────────┬────────────────────────────────────────────────────────────────────────┐
 │ Stakeholder               │ Primary Currency / Priority      │ How Thermal Sentinel Grid Delivers Value                              │
 ├───────────────────────────┼──────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ Hackathon Judges (40% pts)│ Measurable Real-World Impact     │ ~$2.57M scenario avoided failure exposure & 365.4 aging hours saved.   │
+│ Grid Ops & Asset Managers │ Measurable Real-World Impact     │ ~$2.57M scenario avoided failure exposure & 365.4 aging hours saved.   │
 ├───────────────────────────┼──────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
 │ Substation Reliability Eng│ Asset Life & IEEE Compliance     │ Enforces IEEE C57.91 140°C hot-spot ceiling & 12h BESS pre-cooling.    │
 ├───────────────────────────┼──────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
 │ Utility Executives / CFO  │ Risk Mitigation & Opex Control   │ Prevents $2.8M transformer blowout replacements & regulatory outage fines│
 ├───────────────────────────┼──────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
-│ Developers & Data Science │ Modularity, DX & Test Rigor      │ Medallion ETL (Bronze→Gold), 168 passing pytests, sub-15ms simulation. │
+│ Developers & Data Science │ Modularity, DX & Test Rigor      │ Medallion ETL (Bronze→Gold), 177 passing pytests, sub-15ms simulation. │
 ├───────────────────────────┼──────────────────────────────────┼────────────────────────────────────────────────────────────────────────┤
 │ Venture Capitalists / VCs │ TAM Expansion & Defensible Moats │ Acute Painkiller riding FERC 881 tailwinds; compounding physical AI moat.│
 └───────────────────────────┴──────────────────────────────────┴────────────────────────────────────────────────────────────────────────┘
@@ -57,7 +58,7 @@ This microclimate heat trap creates massive **cumulative thermal soak**, pushing
 
 ## 🛡️ Four Asymmetric Scientific Moats
 
-Generic hackathon entries rely on simple threshold rules (*"if temp > 40°C, shed load"*). **Thermal Sentinel Grid** models four unmeasured physical cascades that utility SCADA and generic AI miss:
+Conventional monitoring systems rely on simple threshold rules (*"if temp > 40°C, shed load"*). **Thermal Sentinel Grid** models four unmeasured physical cascades that utility SCADA and generic AI miss:
 
 ```mermaid
 flowchart LR
@@ -112,7 +113,7 @@ flowchart LR
 
 Thermal Sentinel Grid is built with a dual-mode ingestion pattern:
 1. **Mode A: Live Cloud Ingestion (`AsyncFortyGuardClient` / `POST /api/v1/scan`):** Fully integrated with FortyGuard's async submit-and-poll lifecycle (`/v1/heatmap`, `/v1/env_params`, `/v1/status/{activity_id}`, `/v1/system/fetch-api-key-usage`) with live credit billing.
-2. **Mode B: Deterministic Benchmark Replay (`PhoenixHeatwaveReplayEngine` / `GET /api/v1/replay/phoenix-2023`):** Uses high-resolution pre-ingested Phoenix July 2023 heatwave fixtures ([`phoenix_heatwave_2023.json`](src/api/fixtures/phoenix_heatwave_2023.json)). This delivers **$<15\text{ms}$ benchmark ODE solving**, smooth timeline scrubbing, deterministic replay for IEEE Annex G validation, and independence from live vendor calls during judging presentations.
+2. **Mode B: Deterministic Benchmark Replay (`PhoenixHeatwaveReplayEngine` / `GET /api/v1/replay/phoenix-2023`):** Uses high-resolution pre-ingested Phoenix July 2023 heatwave fixtures ([`phoenix_heatwave_2023.json`](src/api/fixtures/phoenix_heatwave_2023.json)). This delivers **$<15\text{ms}$ benchmark ODE solving**, smooth timeline scrubbing, deterministic replay for IEEE Annex G validation, and independence from live vendor calls during demonstrations and offline benchmark evaluations.
 
 ### 🏛️ System Boundary & Simulation Taxonomy
 | Layer | Implementation | Status | Purpose |
@@ -179,12 +180,14 @@ The operator dashboard extends the single-asset thermal replay into a portfolio 
 ## 📁 Repository Structure
 
 ```
-fortyguard-hackathon/
+thermal-sentinel-grid / fortyguard-hackathon/
 ├── README.md                           # Main Project Overview & Architecture
+├── SUBMISSION.md                       # Historical Hackathon Submission Archive (FortyGuard '26)
+├── PITCH_DECK.md                       # Executive Architecture & Product Walkthrough Guide
 ├── AGENT_CONTEXT.md                    # Master Knowledge Reservoir (All Ideas, Background, Research)
 ├── docs/                               # Comprehensive Documentation & Reference Hub
 │   ├── README.md                       # Master Documentation Index
-│   ├── official/                       # Hackathon Official Rules, FAQ, Tracks & Announcements
+│   ├── official/                       # Hackathon Reference Archive, Rules & Mentor Notes
 │   ├── research/                       # Physical AI specs, equations & pitch script
 │   │   ├── README.md                   # Research Catalog Index
 │   │   ├── THERMAL_SENTINEL_GRID_SPECIFICATION.md # Full math, IEEE/IEC equations & StateGraph
@@ -192,9 +195,9 @@ fortyguard-hackathon/
 │   │   ├── ECONOMIC_MODEL_DASHBOARD_AND_PITCH_SCRIPT.md # Avoided loss ROI & 3-min video script
 │   │   ├── RESEARCH_AGENT_SYNTHESIS_AND_PHYSICAL_MODELS.md # 2m meteorological gap & standards
 │   │   └── MENTOR_INSIGHTS_AND_IDEA_FRAMEWORK.md # Mentorship keynote synthesis
-│   ├── sessions-dialogue/              # Full Webinar Transcripts (Sessions 01-08: Fawad, Jordana, Ashan, Ahmed, Tarek, Mudethir, Thamir)
+│   ├── sessions-dialogue/              # Full Webinar Transcripts (Sessions 01-14: Fawad, Jordana, Ashan, Ahmed, Tarek, Mudethir, Thamir)
 │   ├── api-documentation/              # OpenAPI Schemas & FortyGuard Endpoint Guides
-│   ├── handbook/                       # Participant Handbook & Official Scoring Rubrics
+│   ├── handbook/                       # Participant Handbook & Scoring Rubrics Archive
 │   ├── project-registration/           # PyreShield Registration Pitch & Strategy History
 │   └── context/                        # Chat Transcripts & Brainstorming Action Logs
 ├── temperature-api-quickstart/         # Official FortyGuard Quickstart SDK & Notebooks
@@ -207,7 +210,7 @@ fortyguard-hackathon/
 │   ├── agent/                          # LangGraph StateGraph, Evaluators & Planners
 │   └── server/                         # FastAPI Application & Operator Dashboard API
 │       └── routes/                     # Modular API Routers (Replay, Live Scan, Research/alphaXiv)
-└── tests/                              # Automated Pytest Physics, API, validation & persistence suite (168 passed, 3 live skipped)
+└── tests/                              # Automated Pytest Physics, API, validation & persistence suite (177 passed, 3 live skipped)
 ```
 
 ---
@@ -326,7 +329,7 @@ The response contains `metrics.peak_2m_ambient_c`, `mean_2m_ambient_c`, `coolest
 
 ## ⚠️ What Doesn't Work Yet & Future Roadmap
 
-To ensure full transparency with the judging committee, here are current prototype boundaries and our immediate post-hackathon engineering roadmap:
+To ensure full engineering rigor and transparent scope boundaries, here are current prototype boundaries and the ongoing engineering roadmap:
 
 1. **Direct SCADA / DNP3 / IEC 61850 Hardware-in-the-Loop (HIL) Execution:**
    * *Current State:* Thermal Sentinel Grid synthesizes optimal, CBF-verified dispatch setpoints (BESS MW/MVAR, OLTC taps, cooling pumps) and outputs machine-readable JSON/REST work orders.
@@ -340,19 +343,18 @@ To ensure full transparency with the judging committee, here are current prototy
 
 ---
 
-## 🔒 Security, Collaborator Access & Hackathon Compliance
+## 🔒 Security, Architecture & Project Provenance
 
-* **Private Repository Collaborator:** `hackathon@fortyguard.com` (GitHub: `Hackathon-FG`) has been invited to this repository.
-* **Zero API Key Commitment Policy:** No API keys or sensitive credentials are committed to version control. All keys are injected at runtime via `.env` (see `.env.example`).
-* **Development Timeline Transparency:** Initial repository setup, architectural scoping, and mock-data structure: **17 August 2026**. Real FortyGuard Temperature API integration, physical ODE solvers, deterministic safety gate, and core functionality: **18 August 2026 onward** (following official API key release).
-
+* **Zero API Key Commitment Policy:** No API keys, credentials, or secrets are committed to version control. All keys are securely injected at runtime via environment variables (see `.env.example`).
+* **Edge & Platform Hardening:** Protected by Vercel platform DDoS filtering, edge IP rate limiting on paid vendor endpoints, and permanent content-addressed caching for simulation replays.
+* **Project Provenance & Timeline:** Conceived and engineered during August 2026 for the FortyGuard AI Hackathon (*Building the World's Temperature AI*), establishing the complete Physical-AI digital twin architecture, IEEE C57.91 Annex G solvers, and deterministic safety-envelope gate.
 
 ---
 
 ## 🖥️ Interactive Operator Dashboard Features
 
 * **Mission Control Overview:** 12-hour synchronized replay scrubber with Apache ECharts 3-axis physics telemetry.
-* **⚡ Live "What-If" Physics Stress Studio:** Interactive real-time sandbox allowing judges to modulate FortyGuard 2m delta ($0^\circ\mathrm{C} \to +6^\circ\mathrm{C}$), multi-day heatwave dryout (Day 1 to 31), BESS capacity ($0 \to 50\text{ MWh}$), and transformer MVA with sub-15ms live ODE recalculation.
+* **⚡ Live "What-If" Physics Stress Studio:** Interactive real-time sandbox allowing operators and evaluators to modulate FortyGuard 2m delta ($0^\circ\mathrm{C} \to +6^\circ\mathrm{C}$), multi-day heatwave dryout (Day 1 to 31), BESS capacity ($0 \to 50\text{ MWh}$), and transformer MVA with sub-15ms live ODE recalculation.
 * **📊 Data Science & Analytics Studio (IBM-Style Lifecycle):** Complete data science lifecycle tab featuring Bronze→Silver→Gold medallion feature distributions, Pearson/Spearman correlation heatmaps, paired $t$-test microclimate divergence statistics, sub-millisecond Ridge Physics-Surrogate ($R^2 > 0.98$), Isolation Forest sensor anomaly detector, and Weibull Remaining Useful Life (RUL) survival curves. Standalone Jupyter notebook available at [`notebooks/Thermal_Sentinel_DataScience.ipynb`](notebooks/Thermal_Sentinel_DataScience.ipynb).
 * **📚 Academic Provenance & alphaXiv Literature Explorer:** Search engine and curated repository of **22 indexed papers & preprints** directly mapped to FortyGuard 2-meter physical models with live discussion retrieval.
 * **📐 Publication-Grade LaTeX Mathematical Engine (KaTeX):** Full LaTeX typography and auto-scaled, responsive mathematical equations across all telemetry, safety certificates, and scientific moat cards.
@@ -518,7 +520,7 @@ Thermal Sentinel Grid is mathematically and physically grounded in peer-reviewed
 
 ## 📌 Citing This Project
 
-If you reference or build upon **Thermal Sentinel Grid** in research, benchmarks, or hackathon evaluations:
+If you reference or build upon **Thermal Sentinel Grid** in academic research, benchmarks, or microclimate grid resilience studies:
 
 ```bibtex
 @software{azab2026thermalsentinel,
@@ -528,12 +530,12 @@ If you reference or build upon **Thermal Sentinel Grid** in research, benchmarks
   publisher    = {GitHub},
   journal      = {GitHub repository},
   howpublished = {\url{https://github.com/KarimmYasser/fortyguard-hackathon}},
-  note         = {FortyGuard Hackathon 2026 Submission}
+  note         = {Personal Project built for FortyGuard AI Hackathon 2026}
 }
 ```
 
 ```text
-K. Y. Azab, "Thermal Sentinel Grid: Physics-Informed Microclimate AI for Urban Grid Resilience," FortyGuard Hackathon 2026. Available: https://github.com/KarimmYasser/fortyguard-hackathon
+K. Y. Azab, "Thermal Sentinel Grid: Physics-Informed Microclimate AI for Urban Grid Resilience," Built for the FortyGuard AI Hackathon 2026. Available: https://github.com/KarimmYasser/fortyguard-hackathon
 ```
 
 ---

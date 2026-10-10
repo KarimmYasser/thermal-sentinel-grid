@@ -1,6 +1,9 @@
-# ⚡ Thermal Sentinel Grid
+# ⚡ Thermal Sentinel Grid — Historical Hackathon Submission Archive
 > **Physics-Constrained Agentic Thermal Resilience & Dispatch Engine for Distribution Transformers & Urban Energy Infrastructure**  
-> **FortyGuard Hackathon '26** - *Track 03 (Industrial & Enterprise) · Synthesis with Track 06 (Agentic AI) & Track 02 (Energy)*
+> *Author:* Karim Y. Azab (Karim Yasser) · **FortyGuard Hackathon '26 Submission Archive** (Track 03 Industrial & Enterprise)
+
+> [!NOTE]
+> **Historical Archive Record:** This document preserves the official submission package prepared for the **FortyGuard AI Hackathon 2026** (August 18–30, 2026). For the primary open-source project overview and documentation, see [README.md](README.md).
 
 ---
 

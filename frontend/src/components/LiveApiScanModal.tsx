@@ -215,7 +215,7 @@ export const LiveApiScanModal: React.FC<LiveApiScanModalProps> = ({
   };
 
   const planDetails = usage?.data?.plan_details || usage?.plan_details || {
-    plan_type: 'Hackathon',
+    plan_type: 'Developer / Showcase',
     active: true,
   };
 
@@ -260,7 +260,7 @@ export const LiveApiScanModal: React.FC<LiveApiScanModalProps> = ({
             <div className="space-y-1">
               <div className="flex items-center gap-2">
                 <span className="text-slate-400">Subscription Plan:</span>
-                <span className="text-amber-400 font-bold">{planDetails.plan_type || 'Hackathon Active'}</span>
+                <span className="text-amber-400 font-bold">{planDetails.plan_type || 'Active'}</span>
                 <span className="text-slate-600">|</span>
                 <span className="text-slate-400">Endpoint:</span>
                 <span className="text-cyan-400">https://api.fortyguard.com/v1</span>

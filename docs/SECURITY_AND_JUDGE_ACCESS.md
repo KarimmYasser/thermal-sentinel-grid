@@ -1,6 +1,9 @@
-# Security and Judge Access
+# Security, Deployment Architecture & Evaluation Access
 
-## Required judging access
+> [!NOTE]
+> **Provenance & Evaluation Note:** This document outlines the security controls, deployment boundaries, and evaluation access policies established during development and for the FortyGuard AI Hackathon 2026.
+
+## Access & Deployment Baseline
 
 The official hackathon material requires:
 

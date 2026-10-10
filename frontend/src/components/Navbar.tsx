@@ -239,17 +239,17 @@ export const Navbar: React.FC<NavbarProps> = ({
 
         <div className="flex items-center gap-2">
           <span className="text-amber-400 font-bold flex items-center gap-1">
-            <Sparkles className="h-3 w-3" /> FortyGuard Hackathon '26
+            <Sparkles className="h-3 w-3" /> Built for FortyGuard AI Hackathon '26
           </span>
           <span className="text-slate-600">|</span>
           <span className="px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-400 border border-cyan-500/20 font-medium">
-            Track 03: Industrial & Enterprise
+            Industrial Physical AI
           </span>
           <span className="px-2 py-0.5 rounded bg-purple-500/10 text-purple-400 border border-purple-500/20 font-medium hidden md:inline">
-            Track 06: Agentic AI
+            Agentic Dispatch
           </span>
           <span className="px-2 py-0.5 rounded bg-orange-500/10 text-orange-400 border border-orange-500/20 font-medium hidden lg:inline">
-            Track 02: Energy
+            IEEE Digital Twin
           </span>
         </div>
       </div>

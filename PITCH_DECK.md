@@ -1,6 +1,6 @@
-# 🎙️ Thermal Sentinel Grid - Official Pitch Deck & Presentation Guide
-> **Primary Track 03: Industrial & Enterprise · Cross-Track Synthesis with Track 06 (Agentic AI) & Track 02 (Energy Systems)**  
-> **FortyGuard Hackathon '26** · *Author:* Karim Y. Azab (Karim Yasser)  
+# 🎙️ Thermal Sentinel Grid - Project Architecture & Executive Pitch Guide
+> **Physical-AI Digital Twin & Autonomous Agentic Dispatch Engine for Substation Transformers & Urban Grid Resilience**  
+> *Author:* Karim Y. Azab (Karim Yasser) · *Built for the FortyGuard AI Hackathon 2026*  
 > *Live Production Application:* **[https://www.thermal-sentinel-grid.live](https://www.thermal-sentinel-grid.live)** (Zero install, no authentication barrier, full incognito compatibility)
 
 ---
@@ -154,9 +154,9 @@
 
 ---
 
-## 🛡️ PART 3: Judge Q&A Defense Matrix
+## 🛡️ PART 3: Technical Defense & Architecture FAQ (Evaluation & Industry Q&A)
 
-| Likely Judge Question | Winning Technical Defense |
+| Likely Technical Question | Engineering & Architecture Defense |
 | :--- | :--- |
 | **"Why not just use simple threshold rules (e.g. if temp > 40°C trigger fan)?"** | *"Static threshold rules produce rampant false positives and dangerous false negatives: (1) A 20-minute heat spike triggers false alarms even though transformer oil takes 3 hours to warm up, causing unnecessary load shedding; (2) A 39°C day (below threshold) held for 14 continuous hours on dry soil silently cooks winding insulation to 145°C without tripping a single alarm. Thermal Sentinel Grid solves continuous differential energy balances in $<15\text{ms}$ to track true internal states."* |
 | **"Why didn't you train an ML model to predict temperature?"** | *"FortyGuard already provides state-of-the-art 2m Temperature AI and 12h forecasts. Furthermore, transformer heat rise and Arrhenius aging have transparent standards-based formulations in IEEE Std C57.91. Rather than replacing an inspectable physical model with a black-box, we built a $5000\times$ faster Physics-Surrogate ML Regressor ($R^2 > 0.98$) to screen 10,000+ assets across entire city grids in seconds."* |

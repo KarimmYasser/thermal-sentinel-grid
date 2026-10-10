@@ -1,9 +1,9 @@
-# 🧠 Master Context Reservoir - FortyGuard Hackathon'26
+# 🧠 Master Project & Context Reservoir — Thermal Sentinel Grid
 
-> **Project:** Thermal Sentinel Grid (formerly PyreShield AI ideation base)  
+> **Project:** Thermal Sentinel Grid (Physical-AI Microclimate Digital Twin)  
 > **Author:** Karim Y. Azab (Karim Yasser)  
-> **Target Event:** FortyGuard Hackathon'26 - *Building the World's Temperature AI* (Aug 18-30, 2026)  
-> **Repository Path:** `/Users/karim/Development/projects/fortyguard-hackathon`
+> **Origin & Provenance:** Built for the FortyGuard AI Hackathon 2026 (*Building the World's Temperature AI*, Aug 18–30, 2026)  
+> **Repository:** [KarimmYasser/fortyguard-hackathon](https://github.com/KarimmYasser/fortyguard-hackathon)
 
 ---
 
